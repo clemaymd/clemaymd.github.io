@@ -1,7 +1,7 @@
 ---
 title: "Examining High-Frequency Patterns in Robinhood Users' Trading Behavior"
 collection: publications
-category: manuscripts
+category: published
 permalink: /publication/rh_2025_irfa
 date: 2025-06-14
 venue: 'International Review of Financial Analysis'
