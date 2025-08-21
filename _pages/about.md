@@ -7,14 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the personal page of Clement Aymard. 
+Welcome to my webpage!
 
-I am a PhD Candidate in Finance from HEC Montreal. 
+I am a PhD student at HEC Montreal. I am currently on the job market. 
 
-I am on the job market 2025-2026.
-
-XXXX's website 4
+My areas of research are Retail Investors, Market Microstructure, and Climate Finance. 
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+XXXX
