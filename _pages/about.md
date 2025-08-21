@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Welcome  to my webpage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Welcome to my webpage!
 
 I am a PhD student at HEC Montreal. I am currently on the job market. 
 
