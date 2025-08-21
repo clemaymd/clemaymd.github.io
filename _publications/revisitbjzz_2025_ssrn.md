@@ -1,7 +1,7 @@
 ---
 title: "Revisiting Boehmer et al. (2021): Recent Period, Alternative Method, Different Conclusions"
 collection: publications
-category: manuscripts
+category: published
 permalink: /publication/revisitbjzz_2025_ssrn
 date: 2025-08-01
 venue: 'Financial Markets and Portfolio Management'
