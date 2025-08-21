@@ -3,7 +3,7 @@ title: "Revisiting Boehmer et al. (2021): Recent Period, Alternative Method, Dif
 collection: publications
 category: manuscripts
 permalink: /publication/revisitbjzz_2025_ssrn
-date: 2024-11-01
+date: 2025-08-01
 venue: 'Financial Markets and Portfolio Management'
 paperurl: 'Forthcoming'
 ssrnurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4703056'
