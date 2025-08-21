@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/revisitbjzz_2025_ssrn
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024-11
+date: 2024-11-01
 venue: 'Financial Markets and Portfolio Management'
 paperurl: 'Forthcoming'
 ssrnurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4703056'
