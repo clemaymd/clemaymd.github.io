@@ -3,7 +3,6 @@ title: "Revisiting Boehmer et al. (2021): Recent Period, Alternative Method, Dif
 collection: publications
 category: manuscripts
 permalink: /publication/revisitbjzz_2025_ssrn
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-11-01
 venue: 'Financial Markets and Portfolio Management'
 paperurl: 'Forthcoming'
