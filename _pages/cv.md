@@ -61,6 +61,6 @@ Honors & Achievements
 
 Language & Valuable Skills
 ======
-Languages: French (native) & English (fluent)
-Programming-related skills: Proficient in R, SAS and Python. User of Github and Visual Studio Code. 
-Abilities with finance databases: WRDS environment (CRSP, COMPUSTAT, NYSE TAQ, etc), Bloomberg, Morningstar Direct.
+* Languages: French (native) & English (fluent)
+* Programming-related skills: Proficient in R, SAS and Python. User of Github and Visual Studio Code. 
+* Abilities with finance databases: WRDS environment (CRSP, COMPUSTAT, NYSE TAQ, etc), Bloomberg, Morningstar Direct.
