@@ -8,6 +8,7 @@ date: 2025-08-22
 venue: ''
 citation: "Aymard, Clement (2025) A Multi-Scale Approach to Hedging Climate Risk, working paper."
 ---
+
 ## Abstract
 This paper develops a multi-scale, data-driven approach to hedging climate risk in financial portfolios by estimating climate betas across both mixed frequencies (daily, weekly, monthly) and horizons (short-, mid-, and long-run). In the first step, asset-level exposures to climate risk—so-called climate betas—are estimated through a series of univariate
 time-series regressions using various combinations of frequencies and rolling windows. In the second step, hedge portfolios are constructed by regressing innovations in climate risk indices onto the returns of portfolios sorted by these frequency- and horizon-specific betas. This two-step framework improves upon standard factor-mimicking portfolio (FMP)
