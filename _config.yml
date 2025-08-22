@@ -275,6 +275,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _workings
+  - scope:
+      path: ""
+      type: workings
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
