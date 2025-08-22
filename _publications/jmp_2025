@@ -8,7 +8,7 @@ time-series regressions using various combinations of frequencies and rolling wi
 methods by addressing their core limitations: weak factor identification, short sample length, and reliance on low-frequency data. The proposed method is entirely data-driven, avoiding narrative assumptions and enabling flexible implementation across asset universes. Preliminary out-of-sample results using the MCCC index and individual stocks
 show that the multi-scale approach consistently outperforms traditional FMP models and, in some cases, matches or exceeds the performance of more complex, quantity-based hedging strategies.'
 date: 2025-08-22
-venue: 'Working paper (JMP)'
+venue: # 'Working paper (JMP)'
 paperurl: # 'https://doi.org/10.1016/j.irfa.2025.104369'
 ssrnurl: # 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4703056'
 citation: "Aymard, C. (2025) A Multi-Scale Approach to Hedging Climate Risk, Working paper"
