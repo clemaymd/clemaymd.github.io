@@ -22,7 +22,7 @@ repository               : clemaymd/clemaymd.github.io # "academicpages/academic
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "XXX.png"
+  avatar           : "ID_HEC.png"
   name             : "Clement Aymard"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Finance"
