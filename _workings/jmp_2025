@@ -1,6 +1,6 @@
 ---
 title: "A Multi-Scale Approach to Hedging Climate Risk"
-collection: publications
+collection: workings
 category: jmp
 permalink: /publication/jmp_2025
 excerpt: 'This paper develops a multi-scale, data-driven approach to hedging climate risk in financial portfolios by estimating climate betas across both mixed frequencies (daily, weekly, monthly) and horizons (short-, mid-, and long-run). In the first step, asset-level exposures to climate risk—so-called climate betas—are estimated through a series of univariate
