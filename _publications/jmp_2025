@@ -2,13 +2,14 @@
 title: "A Multi-Scale Approach to Hedging Climate Risk"
 collection: publications
 category: jmp
+other_authors: ''
 permalink: /publication/jmp_2025
 excerpt: ''
 date: 2025-08-22
 venue: ''
 paperurl: ''
 ssrnurl: ''
-citation: "Aymard, C. (2025) A Multi-Scale Approach to Hedging Climate Risk, working paper."
+citation: "Aymard, Clement (2025) A Multi-Scale Approach to Hedging Climate Risk, working paper."
 ---
 ## Abstract
 This paper develops a multi-scale, data-driven approach to hedging climate risk in financial portfolios by estimating climate betas across both mixed frequencies (daily, weekly, monthly) and horizons (short-, mid-, and long-run). In the first step, asset-level exposures to climate risk—so-called climate betas—are estimated through a series of univariate
