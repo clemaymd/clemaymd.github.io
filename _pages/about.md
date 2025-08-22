@@ -9,5 +9,5 @@ redirect_from:
 
 I am a PhD candidate in Finance at HEC Montréal, currently on the academic job market.
 
-My research focuses on Retail Investors, Climate Finance, and Portfolio Management, with particular interest in high-frequency data and econometrics.”
+My research focuses on Retail Investors, Climate Finance, and Portfolio Management, with particular interest in high-frequency data and econometrics.
 
