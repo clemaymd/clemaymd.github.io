@@ -7,7 +7,7 @@ permalink: /publication/revisitbjzz_2025_ssrn
 excerpt: ''
 date: 2025-08-01
 venue: 'Financial Markets and Portfolio Management'
-paperurl: 'Forthcoming'
+paperurl: 'https://link.springer.com/article/10.1007/s11408-025-00487-4'
 ssrnurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4703056'
 citation: 'Ardia, D., Aymard, C. and Cenesizoglu, T. (2025) Revisiting Boehmer et al. (2021): Recent Period, Alternative Method, Different Conclusions, Financial Markets and Portfolio Management (forthcoming)'
 ---
