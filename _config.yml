@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Clement Aymard"
 title_separator          : "-"
 name                     : &name "Clement Aymard"
-description              : &description "personal description"
+description              : &description "Assistant Professor of Finance at IESEG School of Management. Research on asset pricing, retail investors, and portfolio management."
 url                      : https://clemaymd.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : clemaymd/clemaymd.github.io # "academicpages/academicpages.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "ID_HEC.png"
   name             : "Clement Aymard"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Finance"
-  location         : # "Montreal"
-  employer         : "HEC Montreal"
+  bio              : "Assistant Professor of Finance"
+  location         : "Lille, France"
+  employer         : "IESEG School of Management"
   uri              : # URL
-  email            : "clement.aymard@hec.ca" 
+  email            : "c.aymard@ieseg.fr"
 
   # Academic websites
   academia         : # URL
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "clementaymard"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

@@ -11,56 +11,78 @@ redirect_from:
 
 Education
 ======
-* 2020-2025: Ph.D. in Finance at HEC Montreal (Montreal, QC, Canada). GPA: 4.16/4.30. Supervisors: Profs. David Ardia and Tolga Cenesizoglu
-* 2014-2016: Master in Finance at Universite Laval (Quebec, QC, Canada). GPA: 3.78/4.30
+* 2020-2026: Ph.D. in Finance at HEC Montréal (Montréal, QC, Canada). GPA: 4.16/4.30
+  * Thesis: ''The Importance of Empirical Choices: Three Essays on Retail Trading and Hedging Strategies''
+  * Advisors: Profs. David Ardia and Tolga Cenesizoglu
+* 2016: CFA professional designation
+  * Passed all levels on the first attempt, charter pending upon required experience
+* 2014-2016: MBA in Finance at Université Laval (Québec, QC, Canada). GPA: 3.78/4.30
 * 2011-2014: Master in Business Management at ICN Business School (Nancy, France)
+
+Research Interests
+======
+* Fields: Asset Pricing, Retail Investors, Portfolio Management
+* Methods: Econometrics, Machine Learning, Large-Scale Financial Data
 
 Academic experiences
 ======
-* 2024-2025: Teaching instructor for FINA20201 Investments (undergraduate level)
-  * Basics of financial markets and securities markets (e.g., order book, indices construction)
-  * Asset pricing models (e.g., gordon, molodovsky, FCFE, CAPM, Markowitz)
-  * Fixed-income fundamentals (e.g., duration, convexity, term structure, immunization strategies)
+* Since 2026-09: Assistant Professor of Finance at IESEG School of Management (Lille, France)
+  * Long Term Financing and Debt Securities 3674, Grande École (master level)
+  * Portfolio Management 3677, Grande École (master level)
+  * Multi-Asset Portfolio Management 3678, Grande École (master level)
 
-* 2021-2025: Teaching assistant 
-  * For MATH80633 Statistical Methods for Financial Data with Prof. David Ardia
-  * For FINA60202 Portfolio Management with Prof. Tolga Cenesizoglu
+* 2024-2026: Instructor at HEC Montréal (S2024, W2025, F2025 x2, W2026)
+  * FINA20201 Investments (bachelor level)
+
+* 2021-2025: Teaching assistant at HEC Montréal (winter terms)
+  * MATH80633 Statistical Methods for Financial Data (master level)
+  * FINA60202 Portfolio Management (master level)
+
+* 2015-2016: Assistant instructor at Université Laval (F2015, W2016)
+  * Teaching workshops for GSF6029 Financial Theory and GSF6022 Derivative Products (master level)
 
 Industry experience
 ======
-* 2017-2018: Equity Analyst at Triasima Portfolio Management Inc. (Montreal, QC, Canada)
+* 2017-2018: Equity Analyst at Triasima Portfolio Management Inc. (Montréal, QC, Canada)
   * Investment funds with around 4B$ AuM
   * Perform fundamental, quantitative, and technical research on public equities
 
+* 2014: Trainee Auditor at KPMG Luxembourg (Luxembourg)
+
 Conferences Presentations
 ======
-* 2025-10: Financial Management Association Annual Meeting (FMA), Conference Doctoral Student Consortium, Vancouver, Canada
-* 2025-06: European Financial Management Association (EFMA) Conference Athens, Greece
-* 2025-05: Société Canadienne des Sciences Économiques (SCSE) Conference, Orford, Canada
-* 2024-06: Northern Finance Association Conference Montreal, Canada (Attendance only)
-* 2024-06: European Financial Management Association (EFMA) Conference Lisbon, Portugal
-* 2023-06: Conference of the French Finance Association (AFFI), Bordeaux, France
-* 2022-07: Quantact SummerDay (Laboratoire de math. actuarielles et financières), Montréal
-* 2022-05: Société Canadienne des Sciences Économiques (SCSE) Conference, Montréal, Canada
-* 2022-03: SouthWest Finance Association (SWFA) Conference, New Orléans, Louisiana, USA
-* 2022-02: Montréal Business Schools' PhD Symposium, Montréal. 
+* 2026: Workshop on Recent Trends and New Developments in Sustainable, Green and International Finance, Nice, France
+* 2025: Financial Management Association (FMA) Annual Meeting, Doctoral Student Consortium, Vancouver, BC, Canada
+* 2025: European Financial Management Association (EFMA) Annual Meeting, Athens, Greece
+* 2025: Société Canadienne des Sciences Économiques (SCSE) Conference, Orford, QC, Canada
+* 2024: Northern Finance Association (NFA) Annual Meeting, Montréal, QC, Canada (attendance only)
+* 2024: European Financial Management Association (EFMA) Annual Meeting, Lisbon, Portugal
+* 2023: Conference of the French Finance Association (AFFI), Bordeaux, France
+* 2022: Quantact Summer Day (Laboratoire de mathématiques actuarielles et financières), Montréal, QC, Canada
+* 2022: Société Canadienne des Sciences Économiques (SCSE) Conference, Montréal, QC, Canada
+* 2022: SouthWest Finance Association (SWFA) Annual Meeting, New Orleans, LA, USA
+* 2022: Montréal Business Schools' PhD Symposium, Montréal, QC, Canada
 
 Honors & Achievements
 ======
-* 2025: Winner of the CASCAD Best Reproduced Paper Award (AFFI Conference 2025)
-  * For the paper ''Examining High-Frequency Patterns in Robinhood Users’ Trading Behavior''
-* 2023-2025: Hydro-Quebec Excellence Scholarhip (x2)
-  * Award offered to PhD students with excellent academic results and whose project is related to the field of energy or sustainable development
-* 2024: UQAM FinTech Chair
-* 2024: GERAD (Group for Research in Decision Analysis) scholarship for conference expenses
-* 2022 Award for the best abstract at the Montréal Business Schools' PhD Symposium
-* 2021: Jean-Louis Mercier Scholarship (HEC Montreal)
-  * Award for Ph.D. student with excellent academic records
-* 2021:	Fin-ML Scholarship
+* Jacques Bourgeois Scholarship, AlphaFixe Capital
+  * For the best project in market finance or risk management, with ''Exploiting Multi-Design Space for Hedging Purpose: The Case of Climate Risk''
+* Esdras-Minville Award
+  * For the best article accepted in a peer-reviewed journal, with ''Examining High-Frequency Patterns in Robinhood Users' Trading Behavior''
+* 2025: CASCAD Best Reproduced Paper Award (AFFI Conference 2025)
+  * For ''Examining High-Frequency Patterns in Robinhood Users' Trading Behavior''
+* 2023-2025: Hydro-Québec Excellence Scholarship (x2)
+  * For outstanding PhD research related to energy and sustainable development, with ''Exploiting Multi-Design Space for Hedging Purpose: The Case of Climate Risk''
+* 2024: FinTech Chair AMF-Finance Montréal Award
+  * For ''Examining High-Frequency Patterns in Robinhood Users' Trading Behavior''
+* 2022: Best Abstract Award, Montréal Business Schools' PhD Symposium
+  * For ''Examining High-Frequency Patterns in Robinhood Users' Trading Behavior''
+* 2021: Jean-Louis Mercier Scholarship (HEC Montréal)
+  * For PhD students with excellent academic records
+* 2021: Fin-ML Doctoral Scholarship
+  * For exceptional PhD students specializing in mathematical and computational finance
 * 2020: Daniel-Brosseau & Peter-Letko Scholarship
-  * Admission scholarship award from HEC Montréal Ph.D. program
-* 2016: CFA professional designation
-  * Passed all levels on the first attempt, charter pending upon required experience
+  * Admission scholarship for the HEC Montréal PhD program
 
 Language & Valuable Skills
 ======
