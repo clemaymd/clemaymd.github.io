@@ -40,6 +40,8 @@ layout: default
           <p>With {{ page.other_authors }}. Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date and page.category == 'published' %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elsif page.date and page.category == 'wp' %}
+          <p> Working paper. Last updated in {{ page.date | default: "1900-01-01" | date: "%B, %Y" }} </p>
         {% elsif page.venue and page.date and page.category == 'jmp' %}
           <p> Work in progress. </p>  
         {% elsif page.date %}

@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV in PDF]({{ base_path }}/files/resume_ClementAymard.pdf)
+
 Education
 ======
 * 2020-2026: Ph.D. in Finance at HEC Montréal (Montréal, QC, Canada). GPA: 4.16/4.30

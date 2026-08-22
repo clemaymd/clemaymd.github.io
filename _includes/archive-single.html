@@ -44,6 +44,8 @@
       <p>With {{ post.other_authors }}. Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'publications' and post.category == 'published' %}
       <p> Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+    {% elsif post.collection == 'publications' and post.category == 'wp' %}
+      <p> Working paper. Last updated in {{ post.date | default: "1900-01-01" | date: "%B, %Y" }} </p>
     {% elsif post.collection == 'publications' and post.category == 'jmp' %}
       <p> Last updated on {{ post.date | default: "1900-01-01" | date: "%Y-%m-%d" }} </p>
     {% elsif post.date %}
